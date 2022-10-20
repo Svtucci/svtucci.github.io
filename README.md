@@ -4,7 +4,7 @@ I began revisions on 27 SEP 2022 after my 1st submisison was rejected
 Utilizing containers and classes that reference boostrap CSS   
 Additions:    
 Skills FINISHED    
-Education TBD   
+Education Finished
 Certifications TBD  
 Begin CSS layout for Resume   
 I have customized my layout using bootstrap framework    
