@@ -5,7 +5,7 @@ Utilizing containers and classes that reference boostrap CSS
 Additions:    
 Skills FINISHED    
 Education Finished
-Certifications TBD  
-Begin CSS layout for Resume   
+Certifications FINISHED
+Begin CSS layout for Resume FINISHED  
 I have customized my layout using bootstrap framework    
 **I USE BOOTSTRAP FRAMEWORK**
